@@ -37,7 +37,7 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
 ## Running the Demo
 
 ```
-git clone https://github.com/matsui528/sis.git
+gh repo clone adhok/Searching-Similar-Images-using-VAE
 cd sis
 pip install -r requirements.txt
 
