@@ -1,5 +1,6 @@
-# Searching-Similar-Images-using-VAE
-Image Search Using Embeddings Extracted from VAE. This repository contains code a simple image search engine using Flask & Pytorch trained model.
+# Searching Similar Images of fruits using VAE
+Image Search Using Embeddings Extracted from VAE. This repository contains code a simple image search engine using Flask & Pytorch trained model. The VAE model was trained using the Fruits 360 data that can be found on [Kaggle](https://www.kaggle.com/moltean/fruits). The script to get the trained model object (cehckpoint.pth) can be found [here](https://www.kaggle.com/adhok93/unsupervised-learning-using-vae)
+
 
 ## Credits
 
@@ -21,13 +22,15 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
   - checkpoint.pth - This is the saved model file
 * templates/
   - index.html - File that contains information about the UI of the app
- 
- 
-
-
-
-
-
-
+* static
+  - img/ 
+    - Contains All the images that are used to construct the embeddings
+  - uploaded/
+    - Contains images that are uploaded into the application.
 ```
+
+## Demo
+
+
+
 
