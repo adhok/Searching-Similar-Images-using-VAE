@@ -21,13 +21,10 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
   - checkpoint.pth - This is the saved model file
 * templates/
   - index.html - File that contains information about the UI of the app
- 
- 
-
-
-
-
-
-
+* static
+  - img/ 
+    - Contains All the images that are used to construct the embeddings
+  - uploaded
+    - Contains images that are uploaded into the application.
 ```
 
