@@ -29,3 +29,8 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
     - Contains images that are uploaded into the application.
 ```
 
+## Demo
+
+
+
+
