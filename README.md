@@ -11,11 +11,18 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
 ## Files & their functions
 
 ```
-server.py - running this file will activate the local application, where the user will choose images. This python file also generates embedding.npy & img_paths.json
-embedding.npy - embedding of each image stored in '.static/img/'
-img_paths.json - This keeps a record of all the images in '.static/img/'
-requirements.txt - List of libraries used for this application.
-feature_extractor.py - This contains functions that will be used by the application to extract image embeddings.
+* server.py - running this file will activate the local application, where the user will choose images. This python file also generates embedding.npy & img_paths.json
+* embedding.npy - embedding of each image stored in '.static/img/'
+* img_paths.json - This keeps a record of all the images in '.static/img/'
+* requirements.txt - List of libraries used for this application.
+* feature_extractor.py - This contains functions that will be used by the application to extract image embeddings.
+
+* model/ 
+  - checkpoint.pth - This is the saved model file
+* templates/
+  - index.html - File that contains information about the UI of the app
+ 
+ 
 
 
 
