@@ -24,7 +24,7 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
 * static
   - img/ 
     - Contains All the images that are used to construct the embeddings
-  - uploaded
+  - uploaded/
     - Contains images that are uploaded into the application.
 ```
 
