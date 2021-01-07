@@ -31,7 +31,7 @@ Image Search Using Embeddings Extracted from VAE. This repository contains code 
 
 ## Demo
 
-https://raw.githubusercontent.com/adhok/Searching-Similar-Images-using-VAE/main/image_search.gif
+(https://raw.githubusercontent.com/adhok/Searching-Similar-Images-using-VAE/main/image_search.gif)
 
 
 
