@@ -39,7 +39,7 @@ This repository contains code for a simple image search engine using Flask & Pyt
 Run the following and open `http://0.0.0.0:5000/`
 
 ```
-git@github.com:adhok/Searching-Similar-Images-using-VAE.git
+gh repo clone adhok/Searching-Similar-Images-using-VAE
 cd Searching-Similar-Images-using-VAE
 pip install -r requirements.txt
 python server.py
